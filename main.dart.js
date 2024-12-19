@@ -48530,7 +48530,7 @@ p=A.X(0,130,13,52)
 q=A.X(255,130,13,52)
 n.ay=new A.aF(A.c7(B.oj,n.at,null),new A.fK(p,q),o)
 n.ch=new A.aF(n.at,new A.ol(0,1),t.gD.h("aF<aJ.T>"))},
-L(a2){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c=this,b=null,a="https://nxvsxenuspwfodejfuvb.supabase.co/storage/v1/object/public/wedding_inv_asset/adibala_optimized.riv?t=2024-12-19T15%3A40%3A04.718Z",a0=A.e4(a2,!0,t.Eu),a1=c.a.c
+L(a2){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c=this,b=null,a="https://nxvsxenuspwfodejfuvb.supabase.co/storage/v1/object/public/wedding_inv_asset/adibala_compressed10.riv",a0=A.e4(a2,!0,t.Eu),a1=c.a.c
 if(a1.d!==2){s=a1.c
 if(s===2)r=" dan Pasangan"
 else r=s>2?" dan Keluarga":""}else r=""
