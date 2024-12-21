@@ -1,6 +1,6 @@
 {
-    "name": "adibala_wedding_inv",
-    "short_name": "adibala_wedding_inv",
+    "name": "test_web",
+    "short_name": "test_web",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
